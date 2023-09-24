@@ -5,10 +5,10 @@ This repo is a collaborative effort that contains resources in French, English, 
 ## French Resources
 ## Literature
 ### Title: [Title]
-Reference: [Reference]
-Link: [Link]
-Date: [Date]
-Description: [Brief description of the resource]
+####Reference: [Reference]
+####Link: [Link]
+####Date: [Date]
+####Description: [Brief description of the resource]
 
 ## Music
 
